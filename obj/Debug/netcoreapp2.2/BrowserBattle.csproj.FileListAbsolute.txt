@@ -1,0 +1,16 @@
+C:\Users\serna\Documents\BrowserBattle\bin\Debug\netcoreapp2.2\BrowserBattle.deps.json
+C:\Users\serna\Documents\BrowserBattle\bin\Debug\netcoreapp2.2\BrowserBattle.runtimeconfig.json
+C:\Users\serna\Documents\BrowserBattle\bin\Debug\netcoreapp2.2\BrowserBattle.runtimeconfig.dev.json
+C:\Users\serna\Documents\BrowserBattle\bin\Debug\netcoreapp2.2\BrowserBattle.dll
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.csprojAssemblyReference.cache
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.csproj.CoreCompileInputs.cache
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.RazorAssemblyInfo.cache
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.RazorAssemblyInfo.cs
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.AssemblyInfoInputs.cache
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.AssemblyInfo.cs
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.RazorTargetAssemblyInfo.cache
+C:\Users\serna\Documents\BrowserBattle\bin\Debug\netcoreapp2.2\BrowserBattle.pdb
+C:\Users\serna\Documents\BrowserBattle\bin\Debug\netcoreapp2.2\BrowserBattle.Views.dll
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.dll
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.pdb
+C:\Users\serna\Documents\BrowserBattle\obj\Debug\netcoreapp2.2\BrowserBattle.csproj.CopyComplete
